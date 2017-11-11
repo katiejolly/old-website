@@ -14,7 +14,13 @@ body {
   }
 }
 
+/* navbar */
+.navbar-custom {
+  background.color: #f7f580
+  color: #6d6d6a;
+}
 header.masthead {
+  color: "#71a4f7";
   background: url('https://unsplash.it/1900/1080?image=304') no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
