@@ -38,3 +38,11 @@ header.masthead>.overlay {
     padding: 10rem 0;
   }
 }
+
+#codelink:hover {
+  color: #666564;
+}
+
+#codelink:link {
+  color: #e58793;
+}
