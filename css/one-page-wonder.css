@@ -6,7 +6,7 @@
 
 body {
   padding-top: 54px;
-  background-color: #ebf2ae
+  background-color: "#ebf2ae";
 }
 
 @media (min-width: 992px) {
@@ -29,8 +29,8 @@ header.masthead {
 header.masthead>.overlay {
   padding: 5rem 0;
   text-align: center;
-  background: #15abd8;
-  color: #666564;
+  background: "#15abd8";
+  color: "#666564";
 }
 
 @media (min-width: 992px) {
