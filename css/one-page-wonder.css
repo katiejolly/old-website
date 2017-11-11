@@ -6,6 +6,7 @@
 
 body {
   padding-top: 54px;
+  background-color: #ebf2ae
 }
 
 @media (min-width: 992px) {
@@ -14,9 +15,11 @@ body {
   }
 }
 
+/* navbar */
+
 header.masthead {
-  color: "#71a4f7";
-  background-color: :"#86a5d6" no-repeat center center scroll;
+  color: #666564;
+  background-color: : no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -26,7 +29,8 @@ header.masthead {
 header.masthead>.overlay {
   padding: 5rem 0;
   text-align: center;
-  background: rgba(0, 0, 0, 0.6);
+  background: #15abd8;
+  color: #666564;
 }
 
 @media (min-width: 992px) {
