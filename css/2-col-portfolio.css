@@ -6,6 +6,7 @@
 
 body {
   padding-top: 54px;
+  background-color: #c2c3c4;
 }
 
 @media (min-width: 992px) {
@@ -20,4 +21,12 @@ body {
 
 .pagination {
   margin-bottom: 30px;
+}
+
+.card {
+	background-color: #86a5d6 
+}
+
+.card-title a{
+	color: #ebf2ae;
 }
