@@ -6,13 +6,17 @@
 
 body {
   padding-top: 54px;
-  background-color: #c2c3c4;
+  background-color: white;
 }
 
 @media (min-width: 992px) {
   body {
     padding-top: 56px;
   }
+}
+
+h1 {
+	color: #f88379;
 }
 
 .portfolio-item {

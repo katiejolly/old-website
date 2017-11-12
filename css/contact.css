@@ -1,3 +1,13 @@
 body {
 	padding-top: 180px; 
 }
+
+a:link, a:visited, a:active{
+	color: #86a5d6;
+	text-decoration: none;
+}
+
+a:hover {
+	color: :#f88379;
+	text-decoration: underline;
+}
