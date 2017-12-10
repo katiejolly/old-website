@@ -6,7 +6,7 @@
 
 body {
   padding-top: 54px;
-  background-color: white;
+  background-color: #b4dfe5;
 }
 
 @media (min-width: 992px) {
@@ -16,7 +16,7 @@ body {
 }
 
 h1 {
-	color: #f88379;
+	color: #303c6c;
 }
 
 .portfolio-item {
@@ -28,9 +28,9 @@ h1 {
 }
 
 .card {
-	background-color: #86a5d6 
+	background-color: #fbe8a6 
 }
 
 .card-title a{
-	color: #535354;
+	color: #303c6c;
 }

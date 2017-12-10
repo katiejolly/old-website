@@ -1,13 +1,19 @@
 body {
 	padding-top: 180px; 
+	background-color: #b4dfe5;
+	color: #303c6c;
 }
 
 a:link, a:visited, a:active{
-	color: #86a5d6;
+	color: #f4976c;
 	text-decoration: none;
 }
 
 a:hover {
 	color: :#f88379;
 	text-decoration: underline;
+}
+
+.card {
+	background-color: #b4dfe5;
 }
